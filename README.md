@@ -1,3 +1,4 @@
+<i class="fa-brands fa-airbnb"></i>
 <h3>Tech Stack Used</h3>
  <ul>
  <li>HTML5</li>
