@@ -1,0 +1,20 @@
+.card{
+    width:20vw;
+    max-width: 30vw;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    border: 20px solid beige;
+    border-radius: 10px;
+}
+.card-img{
+    width: 100%;
+    max-height: 40vh;
+    height:500px ;   
+}
+.card p,.card-status{
+    color: gray;
+    margin-left: 5px;   
+}
+
