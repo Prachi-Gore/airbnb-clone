@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://airbnbscrimba.netlify.app/">
-<img src='airbnb-logo.png'/>
+<img src="airbnb-logo.png"/>
  </a>
  </p>
 <h3>Tech Stack Used</h3>
